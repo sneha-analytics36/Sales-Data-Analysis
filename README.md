@@ -60,7 +60,7 @@ ORDER BY Sales_Month;
 
 ## Interactive Power BI Dashboard
 
-![Sales Exectutive Dashboard](dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 
 ### Key Features & Insights: 
 * **KPI Header:** Tracks total sales performance, total profit, overall costs and total units sold.
