@@ -55,4 +55,15 @@ CAST(SUM(Sales_Amount) AS DECIMAL(10,2)) Monthly_Sales
 FROM dbo.[Sales_Data_Project]
 GROUP BY MONTH(Sale_Date)
 ORDER BY Sales_Month;
-``` 
+```
+---
+
+## Interactive Power BI Dashboard
+
+![Sales Exectutive Dashboard](dashboard.jpg)
+
+### Key Features & Insights: 
+* **KPI Header:** Tracks total sales performance, total profit, overall costs and total units sold.
+* **Category & Regional Analysis:** Visual breakdown showing sales distribution across categories and key geographical regions.
+* **Customer Segmentation:** Analyzes purchasing behavior split between new and returning customers.
+* **Interactive Slicers:** Dynamic filtering by Region, Payment Method, Sale Date Sales Channel.
